@@ -20,7 +20,7 @@ If you find CHLOtimizer useful, consider supporting the project through one of t
 
 ## Other Ways to Support
 
-- Star the project on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer)
+- Star the project on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc)
 - Share CHLOtimizer with others
-- Report bugs or suggest features on [GitHub Issues](https://github.com/ChheangLyChhinhLong/CHLOtimizer/issues)
+- Report bugs or suggest features on [GitHub Issues](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc/issues)
 - Contribute code, apps, or tweaks — see [Contributing](/contributing/)

@@ -797,7 +797,7 @@ try {
         Write-Host "Unknown script choice '$ScriptChoice', defaulting to Raphire's script..." -ForegroundColor Yellow
         & ([scriptblock]::Create((Invoke-RestMethod 'https://debloat.raphi.re/'))) -Silent -RemoveApps
     }
-    Write-Host "Debloat Script From https://getchloptimizer.net" -ForegroundColor Cyan
+    Write-Host "Debloat Script From https://chl-otimizer.vercel.app" -ForegroundColor Cyan
 
     if ($script:appsWereRemoved -and -not (Get-Process -Name "CHLOtimizer" -ErrorAction SilentlyContinue)) {
         [xml]$xaml = @"
@@ -893,5 +893,5 @@ catch {
 
 ## Links
 - [Debloat Windows Script (Raphire)](https://github.com/Raphire/Win11Debloat)
-- [Use CHLOtimizer Debloat Script without CHLOtimizer](https://getchloptimizer.net/debloat)
-- [CHLOtimizer Debloat Script](https://github.com/ChheangLyChhinhLong/CHLOtimizer/blob/main/resources/tweaks/debloat-windows/apply.ps1)
+- [Use CHLOtimizer Debloat Script without CHLOtimizer](https://chl-otimizer.vercel.app/debloat)
+- [CHLOtimizer Debloat Script](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc/blob/main/resources/tweaks/debloat-windows/apply.ps1)

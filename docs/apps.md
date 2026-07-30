@@ -99,4 +99,4 @@ Each app entry has the following structure:
 
 *Required for Winget source. Some apps may only have a Chocolatey package.
 
-After editing, submit a pull request on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer).
+After editing, submit a pull request on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc).

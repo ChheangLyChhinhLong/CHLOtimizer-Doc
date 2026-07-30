@@ -12,7 +12,7 @@ Thank you for your interest in contributing to CHLOtimizer! This guide covers th
 
 ### Reporting Issues
 
-Found a bug or have a feature request? Open an issue on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer/issues).
+Found a bug or have a feature request? Open an issue on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc/issues).
 
 When reporting bugs, include:
 
@@ -26,7 +26,7 @@ When reporting bugs, include:
 
 We welcome pull requests. To get started:
 
-1. Fork the [repository](https://github.com/ChheangLyChhinhLong/CHLOtimizer)
+1. Fork the [repository](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc)
 2. Create a new branch for your changes
 3. Make your changes and test them
 4. Submit a pull request with a clear description
@@ -49,7 +49,7 @@ To run CHLOtimizer locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ChheangLyChhinhLong/CHLOtimizer.git
+git clone https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc.git
 cd chloptimizer
 
 # Install dependencies
@@ -61,5 +61,5 @@ pnpm dev
 
 ## Community
 
-- [GitHub Repository](https://github.com/ChheangLyChhinhLong/CHLOtimizer)
+- [GitHub Repository](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc)
 - [TikTok](https://www.tiktok.com/@chldevs)

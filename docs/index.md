@@ -11,8 +11,8 @@ A Windows app to debloat and optimize your PC
 
 <!-- The ultimate Windows optimizer - fast, private, and lightweight. -->
 
-[:material-download: Get CHLOtimizer](https://github.com/ChheangLyChhinhLong/CHLOtimizer/releases/latest){ .md-button .md-button--primary }
-[:material-github: GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer){ .md-button }
+[:material-download: Get CHLOtimizer](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc/releases/latest){ .md-button .md-button--primary }
+[:material-github: GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc){ .md-button }
 
 ---
 
@@ -58,14 +58,14 @@ It helps you:
 
 === "Website (Recommended)"
 
-    1. Visit [getchloptimizer.net](https://getchloptimizer.net)
+    1. Visit [chl-otimizer.vercel.app](https://chl-otimizer.vercel.app)
     2. Choose **Portable** or **Installer**
     3. Run CHLOtimizer
     4. Apply Tweaks
 
 === "GitHub Releases"
 
-    1. Download from [GitHub Releases](https://github.com/ChheangLyChhinhLong/CHLOtimizer/releases)
+    1. Download from [GitHub Releases](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc/releases)
     2. Extract and run `chloptimizer-{version}-setup.exe`
     3. Apply Tweaks
 
@@ -88,10 +88,10 @@ It helps you:
 - [:material-code-braces: **Creating Tweaks**](creating-tweaks)  
    Build your own custom tweak scripts.
 
-- [:material-web: **Official Website**](https://getchloptimizer.net)
+- [:material-web: **Official Website**](https://chl-otimizer.vercel.app)
    Download The latest version of CHLOtimizer.
 
-- [:material-github: **GitHub Repository**](https://github.com/ChheangLyChhinhLong/CHLOtimizer)
+- [:material-github: **GitHub Repository**](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc)
    Explore the source code.
 
 </div>
@@ -101,6 +101,6 @@ It helps you:
 !!! question "Need Help?"
 
     Follow us on [TikTok](https://www.tiktok.com/@chldevs)
-    or open an issue on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer/issues).
+    or open an issue on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer-Doc/issues).
 
 *Some Tweaks cannot be unapplied and require manual app reinstalls or manual setting changes.
