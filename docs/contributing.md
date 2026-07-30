@@ -62,4 +62,4 @@ pnpm dev
 ## Community
 
 - [GitHub Repository](https://github.com/ChheangLyChhinhLong/CHLOtimizer)
-- [Discord Server](https://discord.com/invite/En5YJYWj3Z)
+- [TikTok](https://www.tiktok.com/@chldevs)

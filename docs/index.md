@@ -100,7 +100,7 @@ It helps you:
 
 !!! question "Need Help?"
 
-    Join our [Discord Server](https://discord.gg/En5YJYWj3Z)
+    Follow us on [TikTok](https://www.tiktok.com/@chldevs)
     or open an issue on [GitHub](https://github.com/ChheangLyChhinhLong/CHLOtimizer/issues).
 
 *Some Tweaks cannot be unapplied and require manual app reinstalls or manual setting changes.
