@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-<img src="https://raw.githubusercontent.com/ChheangLyChhinhLong/CHLOtimizer/main/resources/chloptimizerlogo.png" width="120" height="120">
+<img src="https://raw.githubusercontent.com/ChheangLyChhinhLong/CHLOtimizer-Doc/5892685c59116ed76367ea7836ece88e70f83819/chloptimizerlogo.png" width="120" height="120">
 
 # Welcome to the CHLOtimizer documentation
 

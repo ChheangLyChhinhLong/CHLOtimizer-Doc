@@ -12,8 +12,8 @@ extra_javascript:
 
 theme:
   name: material
-  logo: "https://raw.githubusercontent.com/ChheangLyChhinhLong/CHLOtimizer-Doc/main/resources/chloptimizerlogo.png"
-  favicon: "https://raw.githubusercontent.com/ChheangLyChhinhLong/CHLOtimizer-Doc/main/resources/chloptimizerlogo.png"
+  logo: "https://raw.githubusercontent.com/ChheangLyChhinhLong/CHLOtimizer-Doc/5892685c59116ed76367ea7836ece88e70f83819/chloptimizerlogo.png"
+  favicon: "https://raw.githubusercontent.com/ChheangLyChhinhLong/CHLOtimizer-Doc/5892685c59116ed76367ea7836ece88e70f83819/chloptimizerlogo.png"
   palette:
     # Auto light/dark mode
     - media: "(prefers-color-scheme)"
